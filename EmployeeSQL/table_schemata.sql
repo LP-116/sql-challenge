@@ -1,6 +1,12 @@
 ﻿-- Exported from QuickDBD: https://www.quickdatabasediagrams.com/
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
+-- To create these tables I used QuickDBD and exported the results. 
+-- I have also included a "drop table" line and therefore if a table is created with the same name, it will remove that table before creating the new table.
+-- Character limits have been applied to columns that require a specific number of characters.
+-- Not null is applied to all columns as each column requires an entry.
+-- To ensure code runs correctly, ensure the csv files are uploaded in the correct order (e.g. the Titles csv file needs to be uploaded before the employees csv file.)
+
 DROP TABLE IF EXISTS Employees CASCADE;
 CREATE TABLE Employees (
     emp_no INT   NOT NULL,
