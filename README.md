@@ -30,7 +30,7 @@ We then need to answer the below questions:
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-There is also a bonus section where we try to determine whether the dataset is real or fake by importing the DQL database into Pandas and then:
+There is also a bonus section where we try to determine whether the dataset is real or fake by importing the SQL database into Pandas and then:
 * Creating a histogram to visualise the most common salary range for employees.
 * Creating a bar chart of the average salary by job title. 
 
