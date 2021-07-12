@@ -93,7 +93,7 @@ The EmployeeSQL folder contains the below:
 * A saved image of the ERD image titled "ERD"
 * A file titled queries.sql - this contains the code used to answer the questions.
 * A file titled table_schemata.sql - this is the code used to create the tables in PostgreSQL.
-* A file titled salary_analysis.ipynb - this is the code used for the bonus question. Please run this in Pandas/Jupyter notebook.
+* A file titled bonus_analysis.ipynb - this is the code used for the bonus question. Please run this in Pandas/Jupyter notebook.
 * A Graphs folder containing images of the graphs generated in the bonus section.
 
 The Data folder contains the csv files that need to be imported.
